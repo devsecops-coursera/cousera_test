@@ -1,2 +1,2 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 baseurl: "/devsecops-test-cayman"  # O el nombre de tu repo, por ejemplo: "/devsecops_coursera"
